@@ -10,16 +10,16 @@ body {
 
 .container {
   width: 900px;
-  background-color: #38ca6a;
+  background-color: #000000;
   padding: 25px;
   border-radius: 12px;
-  color: #ffffff;
+  color: #22f32c;
 }
 
 .titulo {
   text-align: center;
   margin-bottom: 20px;
-  color: #ffffff;
+  color: #22f32c;
 }
 
 .formulario {
@@ -60,7 +60,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #22f32c;
 }
 
 .lista {
@@ -82,7 +82,7 @@ button:hover {
 }
 
 .remover-botao {
-  background-color: #d9534f;
+  background-color: #000000;
   margin-top: 5px;
 }
 
